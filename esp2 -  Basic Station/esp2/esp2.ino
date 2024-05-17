@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>   
 
-const char* ssid = "Nupesh80_2";
-const char* password = "j&jwutth";
+const char* ssid = "ssid";
+const char* password = "pass";
 
 void setup() {
   // put your setup code here, to run once:

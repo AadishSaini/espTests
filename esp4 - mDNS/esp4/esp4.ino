@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266mDNS.h>
 
-const char* ssid = "Nupesh80_2";
-const char* pass = "j&jwutth";
+const char* ssid = "ssid";
+const char* pass = "pass";
 
 void setup() {
   // put your setup code here, to run once:
